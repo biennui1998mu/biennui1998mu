@@ -24,6 +24,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </div>
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :book: Current developing to be a Lead
 - :zap: In my free time, I usually playing Game and listen to Music.
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-NguyenSon-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sonnguyendinhhai/)
 
