@@ -11,7 +11,7 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=biennui1998mu&style=flat-square&color=blue" alt=""/>
   <h1>
-    Hey there
+    Hey there :wave:
   </h1>
 </div>
 
