@@ -12,7 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=biennui1998mu&style=flat-square&color=blue" alt=""/>
   <h1>
     Hey there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
+    <img style="width: 25px" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"/>
   </h1>
 </div>
 
