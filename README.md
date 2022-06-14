@@ -9,7 +9,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=biennui1998mu&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=biennui1998mu&style=for-the-badge&color=blue" alt=""/>
   <h1>
     Hey there :wave:
   </h1>
