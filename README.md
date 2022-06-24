@@ -31,8 +31,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   
 ---
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=biennui1998mu&theme=dark&background=000000)](https://git.io/streak-stats) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biennui1998mu&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=biennui1998mu&theme=gruvbox&background=000000)](https://git.io/streak-stats) <br>
+[![GitHub Streak](http://github-readme-stats.vercel.app/api?username=biennui1998mu&theme=gruvbox&show_icons=true)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biennui1998mu&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
