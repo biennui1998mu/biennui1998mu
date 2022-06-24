@@ -15,7 +15,7 @@
 
 ---
 ### :woman_technologist: About Me :
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Full Stack Developer  from VietNam.
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Frontend Engineer from VietNam.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - :book: Current developing to be a Lead
 - :video_game: In my free time, I usually playing Game and listen to Music.
