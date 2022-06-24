@@ -24,7 +24,7 @@
 ---
 ### :fire: My Stats :
 [comment]:<[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=biennui1998mu&theme=gruvbox&background=000000)](https://git.io/streak-stats)>
-[![GitHub Streak](http://github-readme-stats.vercel.app/api?username=biennui1998mu&theme=gruvbox&show_icons=true)](https://git.io/streak-stats) <br>
+[![GitHub Streak](https://github-readme-stats.vercel.app/api?username=biennui1998mu&theme=gruvbox&show_icons=true&include_all_commits=true&count_private=true)](https://git.io/streak-stats) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biennui1998mu&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
