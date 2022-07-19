@@ -20,6 +20,7 @@
 - :book: Current developing to be a Lead
 - :video_game: In my free time, I usually playing Game and listen to Music.
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-NguyenSon-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sonnguyendinhhai/)
+- :hammer_and_wrench: [My tools](./workstation.md)
 
 ---
 ### :fire: My Stats :
