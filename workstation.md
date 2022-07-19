@@ -15,6 +15,7 @@
   * Neovim: https://github.com/neovim/neovim/releases
   * Nodejs: https://nodejs.org/en/
   * Python: Microsoft Store
+  * vim-plug: https://github.com/junegunn/vim-plug
 * SQLdeveloper: https://www.oracle.com/database/sqldeveloper/technologies/download/
 * Notepad++: https://notepad-plus-plus.org/downloads/
 
