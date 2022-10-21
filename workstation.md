@@ -5,7 +5,6 @@
 
 ### Code editor
 1. Webstorm
-2. VIM
 3. SQLdeveloper
 4. Notepad++
 
