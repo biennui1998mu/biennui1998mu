@@ -13,6 +13,10 @@
 * VSC: https://code.visualstudio.com/
 * Notepad++: https://notepad-plus-plus.org/downloads/
 
+#### Nvim
+* Neovim: https://github.com/neovim/neovim/releases/tag/stable
+* Nvim plugins + setting: https://github.com/biennui1998mu/neovim-workplaces
+
 ### Other
 1. Postman(work with api): https://www.postman.com/
 2. Docker: https://www.docker.com/products/docker-desktop/
