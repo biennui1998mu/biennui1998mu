@@ -1,7 +1,7 @@
 ## My Workstation
 
 ### Environment
-1. NVM: https://github.com/nvm-sh/nvm#installing-and-updating
+1. NVM: https://github.com/coreybutler/nvm-windows/releases
 
 ### Code editor
 1. Webstorm
