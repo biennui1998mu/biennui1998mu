@@ -1,4 +1,4 @@
-<div id="header">
+<div id="header" dir="ltl">
   <h3>
     :wave: Hey there 
   </h3>
@@ -12,6 +12,7 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=biennui1998mu&style=for-the-badge&color=blue" alt=""/>
 </div>
+<a href="https://app.daily.dev/nosama"><img src="https://api.daily.dev/devcards/cd96cb7fefe440abbcc4ef85b47abd35.png?r=htj" width="400" alt="Sơn Nguyễn's Dev Card"/></a>
 
 ---
 ### :woman_technologist: About Me :
