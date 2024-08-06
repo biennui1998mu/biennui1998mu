@@ -12,7 +12,6 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=biennui1998mu&style=for-the-badge&color=blue" alt=""/>
 </div>
-<a href="https://app.daily.dev/nosama"><img src="https://github.com/biennui1998mu/biennui1998mu/blob/main/devcard.svg" width="400" alt="Sơn Nguyễn's Dev Card"/></a>
 
 ---
 ### :woman_technologist: About Me :
